@@ -1,0 +1,4 @@
+name = Kmc_GUI - Mod Menu Demo
+author = Kmcgurty
+description = Please read the docs for information. http://kmcgurty.com/kmc-gui-api-docs/
+tags = Tool
